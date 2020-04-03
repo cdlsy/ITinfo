@@ -1,0 +1,21 @@
+{# 用户中心三页面 #}
+{% extends 'base.html' %}
+{% block title %}IT信息港-个人中心{% endblock title %}
+{% block page_title %}用户中心{% endblock page_title %}
+{% load staticfiles %}
+{% block body %}
+<section class="vh-100" style="background: url('{% static 'images/user.jpg'%}') center center;">
+    <div class="main_con clearfix">
+		<div class="left_menu_con clearfix">
+			<h3>用户中心</h3>
+			<ul>
+				<li><a href="{% url 'user:user' %}" {% if page ==  'user' %}class="active"{% endif %}>· 个人信息</a></li>
+<!--				<li><a href="{% url 'user:order' 1 %}" {% if page == 'order' %}class="active"{% endif %}>· 全部订单</a></li>-->
+				<li><a href="{% url 'user:info' %}" {% if page == 'address' %}class="active"{% endif %}>· 修改个人信息</a></li>
+			</ul>
+		</div>
+        {# 用户中心右侧内容块 #}
+{% block right_content %}{% endblock right_content %}
+	</div>
+</section>
+{% endblock body %}

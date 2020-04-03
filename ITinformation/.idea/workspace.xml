@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f52673b-7e05-4bfd-9fe0-5d6652d1eafa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="HTML4 File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZIeFfq8WzTa6mGh7GWcH8RWjc3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apps" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/apps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/apps/user" />
+      <recent name="$PROJECT_DIR$/apps/job" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f52673b-7e05-4bfd-9fe0-5d6652d1eafa" name="Default Changelist" comment="" />
+      <created>1584530932692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584530932692</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="910" y="348" width="655" height="405" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584884483528">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="910" y="348" width="655" height="405" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1584884483528" />
+    <state x="1022" y="450" width="495" height="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585304956612">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="1022" y="450" width="495" height="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.28.1920.1052@0.28.1920.1052" timestamp="1585304956612" />
+    <state x="717" y="312" width="424" height="483" key="FileChooserDialogImpl" timestamp="1584606458868">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="717" y="312" width="424" height="483" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1584606458868" />
+    <state x="801" y="293" key="SettingsEditor" timestamp="1584882184323">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="801" y="293" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1584882184323" />
+    <state x="588" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585901896836">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="588" y="381" key="com.intellij.ide.util.TipDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585901896836" />
+    <state x="894" y="260" width="863" height="724" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1584882074544">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="894" y="260" width="863" height="724" key="com.intellij.javaee.MapExternalResourceDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1584882074544" />
+    <state x="726" y="142" width="1103" height="822" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585912667982">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="726" y="142" width="1103" height="822" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1585912667982" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585397779031">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1585397779031" />
+  </component>
+</project>
